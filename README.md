@@ -7,7 +7,7 @@ This project is an implementation of the Medium article by Martin Short: [Buildi
 ## Features
 
 - **Travel Itinerary Generation**: Enter a travel request, choose the model to use, and generate a detailed itinerary along with a map showing the suggested route.
-- 
+  
 - **Basic Error Handling**: If an unrealistic request is entered, the application provides an explanation and may suggest alternatives.
 
 - **Extended Trip Generation**: Generate trips with more stops than the Google Maps API query limit (25 waypoints). The application handles this by breaking the route into segments and sending multiple requests.
