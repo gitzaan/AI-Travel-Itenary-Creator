@@ -1,0 +1,63 @@
+Running on local URL:  http://127.0.0.1:7860
+
+To create a public link, set `share=True` in `launch()`.
+IMPORTANT: You are using gradio version 3.42.0, however version 4.29.0 is available, please upgrade.
+--------
+# # # # # # # # # # 
+Fetched directions
+# # # # # # # # # # 
+Stop:0 CA-123 & University Ave, Berkeley, CA 94702, USA ==>  9035 Village Dr, TUOLUMNE MEADOWS, CA 95389, USA distance (km):  300.713 traveling Time (hrs):  3.8419444444444446
+Stop:1 9035 Village Dr, TUOLUMNE MEADOWS, CA 95389, USA ==>  1300 1st St #313, Napa, CA 94559, USA distance (km):  311.497 traveling Time (hrs):  4.209722222222222
+Stop:2 1300 1st St #313, Napa, CA 94559, USA ==>  Golden Gate Bridge, Golden Gate Brg, San Francisco, CA, USA distance (km):  72.74 traveling Time (hrs):  0.9413888888888889
+Stop:3 Golden Gate Bridge, Golden Gate Brg, San Francisco, CA, USA ==>  1111 2nd St, Crescent City, CA 95531, USA distance (km):  565.974 traveling Time (hrs):  5.997222222222222
+Stop:4 1111 2nd St, Crescent City, CA 95531, USA ==>  Crater Lake National Park, Oregon, USA distance (km):  303.04 traveling Time (hrs):  3.5613888888888887
+Stop:5 Crater Lake National Park, Oregon, USA ==>  520 SW Powerhouse Dr #624, Bend, OR 97702, USA distance (km):  203.607 traveling Time (hrs):  2.102777777777778
+Stop:6 520 SW Powerhouse Dr #624, Bend, OR 97702, USA ==>  296 E 5th Ave, Eugene, OR 97401, USA distance (km):  209.311 traveling Time (hrs):  2.4769444444444444
+Stop:7 296 E 5th Ave, Eugene, OR 97401, USA ==>  Pioneer Courthouse Square, 701 SW 6th Ave, Portland, OR 97204, USA distance (km):  177.899 traveling Time (hrs):  1.7738888888888888
+Stop:8 Pioneer Courthouse Square, 701 SW 6th Ave, Portland, OR 97204, USA ==>  55210 238th Ave E, Ashford, WA 98304, USA distance (km):  205.003 traveling Time (hrs):  2.1694444444444443
+Stop:9 55210 238th Ave E, Ashford, WA 98304, USA ==>  3002 Mt Angeles Rd, Port Angeles, WA 98362, USA distance (km):  242.766 traveling Time (hrs):  3.0744444444444445
+Stop:10 3002 Mt Angeles Rd, Port Angeles, WA 98362, USA ==>  Vancouver, BC V6G 1Z4, Canada distance (km):  279.462 traveling Time (hrs):  4.46
+Stop:11 Vancouver, BC V6G 1Z4, Canada ==>  400 Broad St, Seattle, WA 98109, USA distance (km):  230.986 traveling Time (hrs):  2.7197222222222224
+Stop:12 400 Broad St, Seattle, WA 98109, USA ==>  Boise River Greenbelt, Boise, ID 83702, USA distance (km):  815.888 traveling Time (hrs):  7.686944444444444
+Stop:13 Boise River Greenbelt, Boise, ID 83702, USA ==>  Mammoth, WY 82190, USA distance (km):  694.48 traveling Time (hrs):  6.737222222222222
+Stop:14 Mammoth, WY 82190, USA ==>  Moose, WY 83012, USA distance (km):  114.19 traveling Time (hrs):  1.5791666666666666
+Stop:15 Moose, WY 83012, USA ==>  404 S 300 W, Salt Lake City, UT 84101, USA distance (km):  467.192 traveling Time (hrs):  4.791388888888889
+Stop:16 404 S 300 W, Salt Lake City, UT 84101, USA ==>  Arches National Park, Utah, USA distance (km):  369.178 traveling Time (hrs):  3.5780555555555558
+Stop:17 Arches National Park, Utah, USA ==>  1701 Wynkoop St, Denver, CO 80202, USA distance (km):  566.198 traveling Time (hrs):  5.315555555555555
+Stop:18 1701 Wynkoop St, Denver, CO 80202, USA ==>  1000 US-36, Estes Park, CO 80517, USA distance (km):  106.611 traveling Time (hrs):  1.5225
+Stop:19 1000 US-36, Estes Park, CO 80517, USA ==>  The Old Market, Omaha, NE 68102, USA distance (km):  904.429 traveling Time (hrs):  8.518055555555556
+Stop:20 The Old Market, Omaha, NE 68102, USA ==>  Millennium Park, Chicago, IL, USA distance (km):  753.268 traveling Time (hrs):  7.041111111111111
+Stop:21 Millennium Park, Chicago, IL, USA ==>  1979 W 25th St, Cleveland, OH 44113, USA distance (km):  552.284 traveling Time (hrs):  5.233888888888889
+Stop:22 1979 W 25th St, Cleveland, OH 44113, USA ==>  Pittsburgh, PA 15222, USA distance (km):  216.721 traveling Time (hrs):  2.1127777777777776
+# # # # # # # # # # 
+Fetched directions
+# # # # # # # # # # 
+Stop:0 Pittsburgh, PA 15222, USA ==>  Manhattan, NY 10036, USA distance (km):  601.292 traveling Time (hrs):  6.011666666666667
+# # # # # # # # # # 
+Fetched directions
+# # # # # # # # # # 
+Stop:0 Tennessee, USA ==>  107 Park Headquarters Rd, Gatlinburg, TN 37738, USA distance (km):  413.098 traveling Time (hrs):  4.317777777777778
+Stop:1 107 Park Headquarters Rd, Gatlinburg, TN 37738, USA ==>  1 Lodge St, Asheville, NC 28803, USA distance (km):  141.667 traveling Time (hrs):  1.8522222222222222
+Stop:2 1 Lodge St, Asheville, NC 28803, USA ==>  600 E Trade St, Charlotte, NC 28202, USA distance (km):  209.973 traveling Time (hrs):  2.1205555555555557
+Stop:3 600 E Trade St, Charlotte, NC 28202, USA ==>  2110 Blue Ridge Rd, Raleigh, NC 27607, USA distance (km):  260.293 traveling Time (hrs):  2.4383333333333335
+Stop:4 2110 Blue Ridge Rd, Raleigh, NC 27607, USA ==>  3215 W Broad St, Richmond, VA 23230, USA distance (km):  277.928 traveling Time (hrs):  2.568888888888889
+Stop:5 3215 W Broad St, Richmond, VA 23230, USA ==>  National Mall, Washington, DC, USA distance (km):  169.231 traveling Time (hrs):  1.7541666666666667
+Stop:6 National Mall, Washington, DC, USA ==>  Market St & N 6th St, Philadelphia, PA 19106, USA distance (km):  224.259 traveling Time (hrs):  2.3833333333333333
+Stop:7 Market St & N 6th St, Philadelphia, PA 19106, USA ==>  New York, NY, USA distance (km):  149.756 traveling Time (hrs):  1.6594444444444445
+
+######
+ Travel plan is not valid 
+######
+
+Please provide a more specific end location in Tennessee, as 'Berkeley Tennessee' is not a recognized location. Additionally, driving from Tennessee to New York City within a week while visiting national parks and cities with good food may be too rushed. Consider extending the trip duration or narrowing down the destinations to make the trip more feasible.
+# # # # # # # # # # 
+Fetched directions
+# # # # # # # # # # 
+Stop:0 Nashville, TN, USA ==>  101 Reserve St, Hot Springs, AR 71901, USA distance (km):  642.797 traveling Time (hrs):  5.9325
+Stop:1 101 Reserve St, Hot Springs, AR 71901, USA ==>  Dallas, TX, USA distance (km):  472.81 traveling Time (hrs):  4.4622222222222225
+Stop:2 Dallas, TX, USA ==>  Fort Worth, TX, USA distance (km):  51.544 traveling Time (hrs):  0.5608333333333333
+Stop:3 Fort Worth, TX, USA ==>  Austin, TX, USA distance (km):  304.931 traveling Time (hrs):  2.8244444444444445
+Stop:4 Austin, TX, USA ==>  San Antonio, TX, USA distance (km):  128.157 traveling Time (hrs):  1.3375
+Stop:5 San Antonio, TX, USA ==>  Waco, TX, USA distance (km):  290.277 traveling Time (hrs):  2.851111111111111
+Stop:6 Waco, TX, USA ==>  Nashville, TN, USA distance (km):  1219.903 traveling Time (hrs):  11.0475
+Keyboard interruption in main thread... closing server.
