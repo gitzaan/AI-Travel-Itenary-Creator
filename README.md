@@ -27,15 +27,15 @@ GOOGLE_PALM_API_KEY={your_google_palm_api_key}
 
 ### Install Dependencies
 
-Make sure to install the required Python packages.
+- Make sure to install the required Python packages.
 `pip install -r requirements.txt
 `
 
 ### Running the Gradio App
 
-To start the Gradio app, run the module for the user interface.
+- To start the Gradio app, run the module for the user interface.
 ```python -m travel_mapper.user_interface.driver```
-Alternatively, use the provided `run` script, ensuring it has execution permissions.
+- Alternatively, use the provided `run` script, ensuring it has execution permissions.
 ```travel_mapper/user_interface/run.sh```
 
 ### License
