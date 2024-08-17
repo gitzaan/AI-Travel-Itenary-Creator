@@ -2,7 +2,7 @@
 
 TravelMapper is a travel agent application that uses OpenAI, Google Gemini, and Google Maps APIs to create and map travel itineraries based on user input. It features a user-friendly interface hosted on Gradio for interactive experiences.
 
-This project is an implementation of the Medium article by Martin Short: [Building a Smart Travel Itinerary Suggester with Langchain, Google Maps API, and Gradio - Part 1](https://medium.com/towards-data-science/building-a-smart-travel-itinerary-suggester-with-langchain-google-maps-api-and-gradio-part-1-4175ff480b74).
+This project is an implementation of the Medium article by Martin Short: [Building a Smart Travel Itinerary Suggester with Langchain, Google Maps API, and Gradio](https://medium.com/towards-data-science/building-a-smart-travel-itinerary-suggester-with-langchain-google-maps-api-and-gradio-part-1-4175ff480b74).
 
 ## Features
 
